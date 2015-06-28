@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="hello">我的笔记</string>
+    <string name="app_name">iNote</string>
+    <!-- 比较通用的字段 -->
+    <string name="search_note">搜索</string>
+    <string name="refresh">刷新</string>
+    <string name="new_note">新建笔记</string>
+    <string name="edit_note">编辑笔记</string>
+    <string name="delete">删除</string>
+    <string name="delete_note">确定删除笔记?</string>
+    <string name="hint">请输入笔记内容</string>
+    
+    <!-- 主界面的菜单 -->
+    <string name="new_folder">新建文件夹</string>
+    <string name="move_to_folder">移进文件夹</string>
+    <string name="backup_data">备份数据</string>
+    <string name="restore_data">从SD卡还原</string>
+    <!-- 文件夹界面下的菜单 -->
+    <string name="edit_folder_title">修改文件夹名称</string>
+    <string name="move_out_of_folder">移出文件夹</string>
+    <!-- 便签界面下的菜单 -->
+    <string name="share_sms_or_email">分享</string>
+    <string name="share_with_sms">短信</string>
+    <string name="share_with_email">邮箱</string>
+    <!-- Button组件显示 的字符串 -->
+    <string name="Ok">完成</string>
+    <string name="Cancel">取消</string>
+    <!-- 备份数据(XML文件)失败时用到的字符串 -->
+    <string name="backupDataFailed">备份数据失败!</string>
+    <string name="backupDataSuc">备份数据成功!</string>
+    <!-- 从SDCard还原 -->
+    <string name="restoreDataFailed">还原数据失败!</string>
+    <string name="restoreDataSuc">还原数据成功!</string>
+
+</resources>
